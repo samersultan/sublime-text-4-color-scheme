@@ -1,4 +1,4 @@
-# Tubster Color Scheme (Modified) 
+# Tubster Color Scheme (Modified) - Sublime Text 3  
 
 
 My modified version of the tubster color scheme for <a href="https://www.sublimetext.com/">Sublime Text 3</a>. Ported from my <a href="https://github.com/samersultan/sublime-text-2-color-scheme">sublime text 2 tubster modded theme</a>.
