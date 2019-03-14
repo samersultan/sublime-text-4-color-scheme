@@ -25,7 +25,8 @@ Installation instructions:
 1) Place the Tubster-custom.tmTheme file in this folder
 
 `
-\AppData\Roaming\Sublime Text 3\Packages\Color Scheme - Default`
+%USERPROFILE%\Appdata\Roaming\Sublime Text 3\Packages\Color Scheme - Default`
+
 
 
 
