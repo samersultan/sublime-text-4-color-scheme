@@ -5,10 +5,6 @@ My modified version of the tubster color scheme for <a href="https://www.sublime
 
 
 
-----
-
-
-
 Here is a screen shot of the moded color scheme (click image for full size): 
 
 
@@ -16,10 +12,6 @@ Here is a screen shot of the moded color scheme (click image for full size):
 ![Modded Sublime 3 Text Theme](http://i.imgur.com/282AyRpl.jpg)
 
 [http://i.imgur.com/282AyRp.png](http://i.imgur.com/282AyRp.png") (full size image)
-
-
-----------
-
 
 
 
