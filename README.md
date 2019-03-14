@@ -1,9 +1,9 @@
 Tubster Color Scheme (Modified) 
 ===================
 
-My modified version of the tubster color scheme for <a href="https://www.sublimetext.com/">Sublime Text 3</a>. 
+My modified version of the tubster color scheme for <a href="https://www.sublimetext.com/">Sublime Text 3</a>. *Ported from my <a href="https://github.com/samersultan/sublime-text-2-color-scheme">sublime text 2 tubster modded theme</a>.*
 
-*Ported color scheme from my <a href="https://github.com/samersultan/sublime-text-2-color-scheme">sublime text 2 tubster modded theme</a>.*
+
 
 ----
 
