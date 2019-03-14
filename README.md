@@ -5,7 +5,7 @@ My modified version of the tubster color scheme for <a href="https://www.sublime
 
 
 
-Here is a screen shot of the moded color scheme (click image for full size): 
+*Screen shot of the moded color scheme (click image for full size):*
 
 
 
