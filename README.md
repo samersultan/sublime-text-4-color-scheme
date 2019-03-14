@@ -23,7 +23,7 @@ Here is a screen shot of the moded color scheme (click image for full size):
 
 
 
-##Installation instructions:
+## Installation instructions:
 
 1) Place the Tubster-custom.tmTheme file in this folder
 
