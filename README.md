@@ -33,7 +33,7 @@ My modified version of the tubster color scheme for <a href="https://www.sublime
 
 3) Select the color scheme from 
 `
-prefences -> color scheme -> Tubster-custom `
+preferences -> color scheme -> Tubster-custom `
 
 ![](http://i.imgur.com/OxRkqGVl.jpg)
 
