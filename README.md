@@ -1,8 +1,7 @@
 # Tubster Color Scheme (Modified) - Sublime Text 3  
 
 
-My modified version of the tubster color scheme for <a href="https://www.sublimetext.com/">Sublime Text 3</a>. Ported from my <a href="https://github.com/samersultan/sublime-text-2-color-scheme">sublime text 2 tubster modded theme</a>. An easy to read dark theme, that will save your vision. 
-
+My modified version of the tubster color scheme for <a href="https://www.sublimetext.com/">Sublime Text 3</a>. Ported from my <a href="https://github.com/samersultan/sublime-text-2-color-scheme">sublime text 2 tubster modded theme</a>. An easy to read dark theme, that helps to reduce eye strain. 
 
 
 *Screen shot of the moded color scheme (click image for full size):*
