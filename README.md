@@ -5,9 +5,6 @@ Modified version of the tubster color scheme for <a href="https://www.sublimetex
 
 ![Modded Sublime 3 Text Theme](http://i.imgur.com/282AyRpl.jpg)
 
-[http://i.imgur.com/282AyRp.png](http://i.imgur.com/282AyRp.png") (full size image)
-
-
 
 ## Installation instructions:
 
