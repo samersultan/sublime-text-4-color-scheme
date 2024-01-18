@@ -19,7 +19,7 @@ Modified version of the tubster color scheme for <a href="https://www.sublimetex
 2) Add the following line to your preferences file: 
 
 
-`"color_scheme": "Packages/Color Scheme - Default/Tubster.tmTheme"`
+`"color_scheme": "Packages/Color Scheme - Default/Tubster.tmTheme"`,
 
 
 3) Select the color scheme from 
