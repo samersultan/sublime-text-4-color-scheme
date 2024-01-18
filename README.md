@@ -11,7 +11,7 @@ Modified version of the tubster color scheme for <a href="https://www.sublimetex
 1) Place the Tubster-custom.tmTheme file in this folder (if it does not exist create it): 
 
 `
-%USERPROFILE%\Appdata\Roaming\Sublime Text 3\Packages\Color Scheme - Default`
+%USERPROFILE%\Appdata\Roaming\Sublime Text\Packages\Color Scheme - Default`
 
 
 
