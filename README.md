@@ -21,7 +21,7 @@ Modified version of the tubster color scheme for <a href="https://www.sublimetex
 
 `"color_scheme": "Packages/Color Scheme - Default/Tubster.tmTheme"`
 
-https://i.imgur.com/CKNaDVv.png
+
 ![](http://i.imgur.com/CKNaDVv.png)
 
 
